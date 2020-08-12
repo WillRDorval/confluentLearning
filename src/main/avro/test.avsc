@@ -1,0 +1,9 @@
+{
+  "namespace": "com.aredowl.confluent",
+  "type": "record",
+  "name": "test",
+  "fields":[
+    {"name": "id", "type": "string"},
+    {"name": "serial", "type": "double"}
+  ]
+}
